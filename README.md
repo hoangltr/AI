@@ -1,2 +1,2 @@
 # AI
-AI project
+Some AI project I do during college
